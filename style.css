@@ -753,6 +753,32 @@ margin-top: 8rem;
     }
 }
 
+@media(max-width:610px){
+ 
+    .services{
+        background: var(--bg-color);
+    }
+    .plans{
+        background:var(--bg-color)
+    }
+    .review-items{
+       
+    background: var(--bg-color);}
+    .footer{
+        background:var(--bg-color) ;
+    }
+
+  
+    .container{
+        width: 400px;
+    }
+  
+  #con{
+background: var(--bg-color);
+/* background: linear-gradient(to right,#000,#000); */
+   /* background-color: #000;} */
+}
+}
 
 /* user sign-in and sign-up code */
 
