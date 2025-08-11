@@ -1,3 +1,3 @@
 # YoGym
 Services provided by YoGym...
-updations
+updations.
