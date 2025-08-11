@@ -1,3 +1,3 @@
-# pacific-gym
+# YoGym
 Services provided by YoGym...
 updations
