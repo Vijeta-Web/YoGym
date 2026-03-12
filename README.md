@@ -2,6 +2,7 @@
 
 ## 🌐 Live Website
 🔗 https://vijeta-web.github.io/YoGym/
+![YoGym Website](vijeta-web.github.io/YoGym/)
 
 ## 📌 Project Overview
 YoGym is a web-based gym registration interface designed to collect and validate user data efficiently. The system captures user details through a form and stores them in Google Sheets using API integration.
