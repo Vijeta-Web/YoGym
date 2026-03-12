@@ -1,7 +1,6 @@
 # 🏋️ YoGym – Gym Registration Website
 
 ## 🌐 Live Website
-🔗 https://vijeta-web.github.io/YoGym/
 ![YoGym Website](vijeta-web.github.io/YoGym/)
 
 ## 📌 Project Overview
